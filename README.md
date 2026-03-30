@@ -16,9 +16,9 @@ _______ Files and Structure _______
 - Presentation.pdf : Final presentation slides.
 
   ________ How to use _________
-Clone the repo : git clone < repository-url>.
-Review the case study description in case study description pdf
-Run SQL queries in SQL queries.sql on your database.
+- Clone the repo : git clone < repository-url>.
+- Review the case study description in case study description pdf
+- Run SQL queries in SQL queries.sql on your database.
 
 _________ Contributors_____________
-Lehlogonolo Sebothoma (https://github.com/Lehlogonolo040)
+- Lehlogonolo Sebothoma (https://github.com/Lehlogonolo040)
