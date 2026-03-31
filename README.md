@@ -1,5 +1,6 @@
 # Bright_coffee_shop_case_study_1
-Analysis for the CEO to understand the sales at Bright coffee shop for the last 6 month.
+.Analysis for the CEO to understand the sales at Bright coffee shop for the last 6 month.
+
 _______ Files and Structure _______
 ** Project description and raw data **
 - Analysis raw data.csv : Raw dataset for analysis.
